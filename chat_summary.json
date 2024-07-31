@@ -18,5 +18,11 @@
         "content": "Definitely, I will add a sidebar having navlinks home, about and contact.",
         "timestamp": "31072024084956",
         "message_id": "guest31072024084955"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Dynamic search bar to quickly find blockchain info\", \"checked\": true}, {\"feature\": \"Interactive blockchain visualization tool\", \"checked\": false}, {\"feature\": \"Real-time notifications for blockchain updates\", \"checked\": false}, {\"feature\": \"User account creation for personalized experiences\", \"checked\": true}, {\"feature\": \"FAQ section for user guidance on blockchain\", \"checked\": false}, {\"feature\": \"Dark/Light mode toggle for user preference\", \"checked\": true}], \"input_token_count\": 219, \"output_token_count\": 100, \"time_taken\": \"0:00:04.347272\"}",
+        "timestamp": "31072024085000",
+        "message_id": "guest31072024084955"
     }
 ]
